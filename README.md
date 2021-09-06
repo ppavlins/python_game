@@ -1,7 +1,6 @@
-# python_game
-1. Simple python game 
-2. Clone whole repositary into your local project
-3. Set python interpreter 3.9 or newer version
-4. Run game.py 
-5. Enjoy
+### Simple python game
+1. Clone whole repositary into your local project
+2. Set python interpreter 3.9 or newer version
+3. Run game.py 
+4. Enjoy
 - Test things play with code add things whatever you desire
